@@ -1,0 +1,29 @@
+
+* {
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+}
+
+form {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+img {
+  width: 92%;
+  transition: .4s;
+}
+
+img:hover {
+  width: 100%;
+  transition: .4s;
+  border-radius: 30px;
+}
+
+p {
+  font-size: 25px;
+  padding-left: 50px;
+}
